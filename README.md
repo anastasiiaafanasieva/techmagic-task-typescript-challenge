@@ -1,0 +1,1 @@
+# techmagic-task-typescript-challenge
