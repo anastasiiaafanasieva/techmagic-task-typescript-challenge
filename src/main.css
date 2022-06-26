@@ -1,0 +1,20 @@
+.posts__list {
+  list-style-type: none;
+  margin: 5px;
+  padding: 0px;
+}
+
+.user-item {
+  margin-bottom: 30px;
+  padding: 10px 0px 0px 10px;
+  border: 1px solid grey;
+}
+
+.post__content {
+  margin-top: 5px;
+  padding-left: 15px;
+}
+
+.posts__update-post {
+  margin: 15px;
+}
